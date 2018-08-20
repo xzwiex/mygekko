@@ -1,0 +1,16 @@
+BEAR_MOD_low=-5
+BULL_MOD_high=5
+BEAR_RSI_high=50
+SMA_short=50
+BULL_RSI_high=80
+SMA_long=1000
+BEAR_RSI=15
+ADX_high=70
+BEAR_RSI_low=20
+BEAR_MOD_high=15
+BULL_RSI=10
+ADX=3
+ADX_low=50
+BULL_MOD_low=-5
+BULL_RSI_low=60
+Stop_Loss_Percent=50
